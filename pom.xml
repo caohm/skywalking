@@ -521,7 +521,7 @@
                         <id>validate</id>
                         <phase>process-sources</phase>
                         <goals>
-                            <goal>check</goal>
+<!--                            <goal>check</goal>-->
                         </goals>
                     </execution>
                 </executions>
